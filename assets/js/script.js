@@ -12,7 +12,7 @@ function save(){
 btnf.addEventListener('click', function(event){
   event.preventDefault();
   save();
-  alert('Datos guardados: ' + tite + ', ' + cont);
+
 })
 
 
